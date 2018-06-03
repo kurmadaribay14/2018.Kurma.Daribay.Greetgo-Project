@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : kz.greetgo.blog : blog.war">
+    <output-path>$PROJECT_DIR$/blog.parent/blog.war/build/libs</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$/blog.parent" />
+    </properties>
+    <root id="archive" name="blog.war">
+      <element id="artifact" artifact-name="Gradle : kz.greetgo.blog : blog.war (exploded)" />
+    </root>
+  </artifact>
+</component>

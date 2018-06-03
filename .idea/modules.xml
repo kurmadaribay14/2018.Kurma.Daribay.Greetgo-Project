@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/blog-master.iml" filepath="$PROJECT_DIR$/.idea/blog-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blog.client/blog.client.iml" filepath="$PROJECT_DIR$/.idea/modules/blog.client/blog.client.iml" group="blog.client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blog.client/blog.client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/blog.client/blog.client_main.iml" group="blog.client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blog.client/blog.client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/blog.client/blog.client_test.iml" group="blog.client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blog.controller/blog.controller.iml" filepath="$PROJECT_DIR$/.idea/modules/blog.controller/blog.controller.iml" group="blog.controller" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blog.controller/blog.controller_main.iml" filepath="$PROJECT_DIR$/.idea/modules/blog.controller/blog.controller_main.iml" group="blog.controller" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blog.controller/blog.controller_test.iml" filepath="$PROJECT_DIR$/.idea/modules/blog.controller/blog.controller_test.iml" group="blog.controller" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blog.parent.iml" filepath="$PROJECT_DIR$/.idea/modules/blog.parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blog.parent_main.iml" filepath="$PROJECT_DIR$/.idea/modules/blog.parent_main.iml" group="blog.parent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blog.parent_test.iml" filepath="$PROJECT_DIR$/.idea/modules/blog.parent_test.iml" group="blog.parent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blog.register/blog.register.iml" filepath="$PROJECT_DIR$/.idea/modules/blog.register/blog.register.iml" group="blog.register" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blog.register/blog.register_main.iml" filepath="$PROJECT_DIR$/.idea/modules/blog.register/blog.register_main.iml" group="blog.register" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blog.register/blog.register_test.iml" filepath="$PROJECT_DIR$/.idea/modules/blog.register/blog.register_test.iml" group="blog.register" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blog.server/blog.server.iml" filepath="$PROJECT_DIR$/.idea/modules/blog.server/blog.server.iml" group="blog.server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blog.server/blog.server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/blog.server/blog.server_main.iml" group="blog.server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blog.server/blog.server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/blog.server/blog.server_test.iml" group="blog.server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blog.stand/blog.stand.iml" filepath="$PROJECT_DIR$/.idea/modules/blog.stand/blog.stand.iml" group="blog.stand" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blog.stand/blog.stand_main.iml" filepath="$PROJECT_DIR$/.idea/modules/blog.stand/blog.stand_main.iml" group="blog.stand" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blog.stand/blog.stand_test.iml" filepath="$PROJECT_DIR$/.idea/modules/blog.stand/blog.stand_test.iml" group="blog.stand" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blog.war/blog.war.iml" filepath="$PROJECT_DIR$/.idea/modules/blog.war/blog.war.iml" group="blog.war" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blog.war/blog.war_main.iml" filepath="$PROJECT_DIR$/.idea/modules/blog.war/blog.war_main.iml" group="blog.war" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blog.war/blog.war_test.iml" filepath="$PROJECT_DIR$/.idea/modules/blog.war/blog.war_test.iml" group="blog.war" />
+    </modules>
+  </component>
+</project>
